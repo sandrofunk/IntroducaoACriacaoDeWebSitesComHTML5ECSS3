@@ -50,8 +50,8 @@ Representa um conteúdo independente e de maior relevância dentro de uma págin
 <footer>
 
 Esse elemento representa o rodapé do conteúdo ou de parte dele, pois ele é aceito dentro de vários elementos, como article e section e até do body. 
-Exemplos de conteúdo de um <footer> são informações de autor e links relacionados.
+Exemplos de conteúdo de um footer são informações de autor e links relacionados.
 
+- h1 e h6
 
-
-Eles não foram criados na versão 5 do HTML e nem são específicos para semântica, mas servem para esse propósito. São utilizados para marcar a importância dos títulos, sendo <h1> o mais importante e <h6> o menos. Uma dica: use apenas um <h1> por página, pois ele representa o objetivo da sua página.
+Eles não foram criados na versão 5 do HTML e nem são específicos para semântica, mas servem para esse propósito. São utilizados para marcar a importância dos títulos, sendo h1 o mais importante e h6 o menos. Uma dica: use apenas um h1 por página, pois ele representa o objetivo da sua página.
